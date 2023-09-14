@@ -31,5 +31,7 @@ if //(condition)
 ```
 
 ### Simple math
+```
 int mathEx;
 mathEx = 1 + 1
+```
