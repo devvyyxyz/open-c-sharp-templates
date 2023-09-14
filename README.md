@@ -24,8 +24,12 @@ Console.WriteLine("Hello World!");
 
 ### Conditions
 ```cs
-if (condition) 
+if //(condition) 
 {
   // block of code to be executed if the condition is True
 }
 ```
+
+### Simple math
+int mathEx;
+mathEx = 1 + 1
