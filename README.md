@@ -1,6 +1,16 @@
 # open-c-sharp-templates
 Simple open source C sharp scripts for beginners
 
+### Commentrs
+```
+// This is a comment
+Console.WriteLine("Hello World!");
+```
+
+### Variables
+```
+type variableName = value;
+```
 
 ### Output
 ```
